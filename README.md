@@ -60,7 +60,7 @@
   - 月間推移
     - Member : 7月にピーク（1月の約4.4倍）
     - Casual : 7月にピーク（1月の約12倍）
-    - 
+      
 <img width="985" height="384" alt="image" src="https://github.com/user-attachments/assets/693ef44d-65cd-452a-904c-9c78f09b91c7" />
 
 
