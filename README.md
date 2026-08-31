@@ -30,7 +30,7 @@
        - バイクタイプごとの利用回数
 
   5. Share
-     - Looker Studioダッシュボード（https://datastudio.google.com/reporting/ff580008-9d46-4d8c-982a-43368862f740）
+     - Looker Studioダッシュボード（https://datastudio.google.com/s/tagPzGA6bBk）
   
   6. Act
      -下記提言に記載
