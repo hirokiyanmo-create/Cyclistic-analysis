@@ -11,17 +11,21 @@
 - Looker Studio（可視化ダッシュボード）
 
 ## 分析プロセス
-  1. Prepare
+  1. Ask
+    - 年間会員とカジュアルライダーで、Cyclisticの自転車の利用方法にどのような違いがあるか？
+    - 仮説 : 年間会員は同じ利用目的が連続的（平日or土日）にある可能性（通勤など）あり
+  
+  3. Prepare
     - Google Cloud Storageから「BigQuery」へのデータ取り込み
     - データ型/データのサイズ/データの最新性を確認
 
-  2. Process
+  4. Process
     - 使用時間1分以内のデータが残っていないかの確認
     - 四分位範囲を使用して外れ値を計算
     - クリーニング
     - 利用駅にNULL値があるがその他の項目が分析に使用可能なため残す判断
 
-  4. Analyze
+  5. Analyze
       会員別に下記を算出
        - 利用回数 / 平均利用時間
        - 曜日 / 時間帯別利用回数
@@ -29,11 +33,11 @@
        - 主要利用駅
        - バイクタイプごとの利用回数
 
-  5. Share
+  6. Share
      - Looker Studioダッシュボード([Cyclistic-Analysis.pdf](https://github.com/user-attachments/files/31626927/Cyclistic-Analysis.pdf))
 
   
-  6. Act
+  7. Act
      -下記提言に記載
 
 ## 分析概要と発見
