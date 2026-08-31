@@ -30,7 +30,7 @@
        - バイクタイプごとの利用回数
 
   5. Share
-     - Looker Studioダッシュボード[Cyclistic-Analysis.pdf](https://github.com/user-attachments/files/31626927/Cyclistic-Analysis.pdf)
+     - Looker Studioダッシュボード([Cyclistic-Analysis.pdf](https://github.com/user-attachments/files/31626927/Cyclistic-Analysis.pdf))
 
   
   6. Act
