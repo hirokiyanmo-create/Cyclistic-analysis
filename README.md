@@ -36,22 +36,30 @@
   6. Act
      -下記提言に記載
 
-## 発見
-  - Member
-    - 総利用回数 : 3,636,969回
-    - 使用目的 : 通勤利用
+## 分析概要と発見
+  - 総利用回数
+    - Member : 3,636,969回(66.7%)
+    - Casual : 1,810,640回(33.3%)
+- 使用目的
+  - Member : 通勤利用
       - 平日の朝7-8時/夕方16-17時が多い
       - 主要利用駅のランキングより推察
 
-    - 月間推移 : 7月にピーク（1月の約4.4倍）
-  
-  - Casual
-    - 総利用回数 : 1,810,640回
-    - 使用目的 : 観光 / レジャー
+  - Casual : 観光 / レジャー
       - 土日の利用 / 平日の午後利用が多い
       - 主要利用駅のランキングより推察
+    
+  <img width="1116" height="559" alt="image" src="https://github.com/user-attachments/assets/11df6231-da31-4338-84e8-bcc610a5e674" />
+<img width="990" height="595" alt="image" src="https://github.com/user-attachments/assets/6d3260c6-c1fc-4c27-926d-d5dc9b6ac14d" />
 
-    - 月間推移 : 7月にピーク（1月の約12倍）
+
+  - 月間推移
+    - Member : 7月にピーク（1月の約4.4倍）
+    - Casual : 7月にピーク（1月の約12倍）
+    - 
+<img width="985" height="384" alt="image" src="https://github.com/user-attachments/assets/693ef44d-65cd-452a-904c-9c78f09b91c7" />
+
+
 
 ## 提言
   1. デジタルメティア
